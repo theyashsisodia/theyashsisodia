@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yashraj Sisodiya</h1>
 
 <p align="center">
-  <a href="https://t.me/theyashsisodiya"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+India." alt="Yash?">
+  <a href="https://t.me/theyashsisodiya"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=An+undergraduate+student+from+SVIIT." alt="Yash?">
 </p>
 
 <p align="center"> <a href="https://t.me/theyashsisodiya"><img src="https://te.legra.ph/file/a5a6c5f7c655a4046d8c1.jpg" alt="Hiro"></a>
