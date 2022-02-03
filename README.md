@@ -19,7 +19,7 @@
 ```python
 from github.theyashsisodiya.db import quote
 
-class nouseridfound():
+class theyashsisodiya():
     def __init__(self):
         self.name = ['YASHRAJ']
         self.country = ['India']
