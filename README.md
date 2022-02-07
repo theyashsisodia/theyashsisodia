@@ -24,7 +24,8 @@ class theyashsisodiya():
         self.name = ['YASHRAJ']
         self.country = ['India']
         self.language = ['Hindi', 'English']
-
+vist_site= yashwebsitepersonal.web.
+app
     def quotes(quote):
         if quote.Quotes == None:
             quote.Quotes.add('Hehe.')
