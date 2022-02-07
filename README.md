@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Yashraj Sisodiya</h1>
 
 <p align="center">
-  <a href="https://wa.me/+917389022061%20Heyy"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&width=430&lines=An+undergraduate+student+from+SVIIT." alt="Yash?">
+  <a href="https://wa.me/+917389022061/%20Heyy"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&width=430&lines=An+undergraduate+student+from+SVIIT." alt="Yash?">
 </p>
 
-<p align="center"> <a href="https://wa.me/+917389022061%20Hey"><img src="https://te.legra.ph/file/a5a6c5f7c655a4046d8c1.jpg" alt="Hiro"></a>
+<p align="center"> <a href="https://wa.me/+917389022061/%20Hey"><img src="https://te.legra.ph/file/a5a6c5f7c655a4046d8c1.jpg" alt="Hiro"></a>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=theyashsisodia&theme=react&show_icons=true&count_private=true">
